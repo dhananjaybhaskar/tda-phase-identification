@@ -10,6 +10,7 @@ This public repository contains code to reproduce results published in [Bhaskar 
 |--|--|
 | `model_param_sweep.m` | Simulate self-propelled particle model. |
 | `density_map.m` | Plot particle density order parameter. |
+| `Representative Barcode Statistics.ipynb` | Statistics for number and size of persistent loops in individual, branching and clustered phases. |
 | `Pairwise Wasserstein Distances.ipynb` | Compute pairwise Wasserstein distances using persistence diagrams obtained from particle positions. |
 | `Phase Diagram Classification.ipynb` | Permute pairwise Wasserstein distance matrix using hierarchical clustering and map classification results to phase diagram. |
 | `Robustness (Julia Computation).ipynb` and `Robustness (Python Visualization).ipynb` | Quantify robustness of classification w.r.t. sparse sampling, spatial scaling and over time. |
